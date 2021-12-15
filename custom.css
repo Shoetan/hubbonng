@@ -1,0 +1,40 @@
+body {
+  background-color: rgba(245, 245, 245, 0.048);
+}
+
+.text-primary {
+  color: hsl(56, 100%, 50%) !important;
+}
+
+.site-navbar.scrolled .site-logo a {
+  color: hsl(56, 100%, 50%) !important;
+}
+
+.btn-primary {
+  background-color: hsl(56, 100%, 50%) !important;
+  border: none;
+}
+
+.mb-4 a {
+  color: hsl(56, 100%, 50%) !important;
+  cursor: none;
+  font-weight: 600;
+}
+
+#new {
+  color: hsl(56, 100%, 50%) !important;
+  cursor: none;
+  font-weight: 600;
+}
+
+.number {
+  background-color: hsl(56, 100%, 48%) !important;
+}
+
+.site-navbar .site-navigation .site-menu a.active {
+  color: hsl(56, 100%, 50%) !important;
+}
+
+.nav-link:hover {
+  color: hsl(56, 100%, 50%) !important;
+}

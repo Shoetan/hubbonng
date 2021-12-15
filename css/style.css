@@ -1323,7 +1323,7 @@ h1, h2, h3, h4, h5,
     bottom: 0;
     width: 80px;
     height: 3px;
-    background: #f16821; }
+     }
   .border-primary.text-center:after {
     left: 50%;
     -webkit-transform: translateX(-50%);
